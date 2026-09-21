@@ -1,4 +1,6 @@
-﻿namespace introToMethods_3._5
+﻿using System.Net.Security;
+
+namespace introToMethods_3._5
 {
     internal class Program
     {
